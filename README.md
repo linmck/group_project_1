@@ -1,2 +1,2 @@
 # group_project_1
-A repo for group work
+# A branch for working seperately from the Master without fucking anything up
