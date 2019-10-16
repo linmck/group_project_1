@@ -19,7 +19,7 @@ Datasets to be used: https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm
 Rough Breakdown of Tasks: 
   *Define states by Region to bin later
   *Locate alcohol mortality data, insert into drug data
-  *Munge, truncate, etc data to be sucinct as possible, focusing on 2018
+  *Munge, truncate, etc data to be sucinct as possible, focusing on 2017
   *Build dataframes (pivot?) with focuses on each question
   *Locate national crime data, bin by definded region, isolate drug related convictions
 
