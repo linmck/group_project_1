@@ -1,4 +1,7 @@
 # group_project_1
+<<<<<<< HEAD
+A branch for working seperately from the Master without fucking anything up
+=======
 A repo for group work
 
 Project Title: Investigating Drug Abuse Relationships
@@ -24,3 +27,4 @@ Rough Breakdown of Tasks:
   *Locate national crime data, bin by definded region, isolate drug related convictions
 
 Hypothesis: Higher rates of homelessness and lower average household incomes have a direct impact on substance use
+>>>>>>> 445d8f8d1e08c4ef43d9ff14f5bad349e43bf1b9
