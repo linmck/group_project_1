@@ -14,7 +14,7 @@ Research Questions to Answer:
   *What percentage of deaths by region are drug/alcohol related?
   *What percentage of drug deaths are opiods? Illicit drugs? Alcohol?
   *What is the correlation between average household income and drug mortality?
-  *What is the correlation between homeless population(per capita) and drug mortality?
+  *What is the correlation between homeless population and drug mortality?
   *Is there a correlation between drug-related convictions and deaths?
 
 Datasets to be used: https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm
@@ -27,4 +27,23 @@ Rough Breakdown of Tasks:
   *Locate national crime data, bin by definded region, isolate drug related convictions
 
 Hypothesis: Higher rates of homelessness and lower average household incomes have a direct impact on substance use
+
+Charts:
+Scatter Plots (Charles):
+Compare Drug Related Mortality to Household Income
+Compare Drug Related Mortality to Homelessnes
+Compare Drug Related Mortality to Drug Arrests
+
+Bar Chart
+Household Income per Region
+Drug Related Deaths per Region
+Homelessness per Region
+Drug Arrests per Region
+
+Pie Chart
+Named Drugs (Illicit, Opiods, Alcohol) Death Counts Region 1
+Named Drugs (Illicit, Opiods, Alcohol) Death Counts Region 2
+Named Drugs (Illicit, Opiods, Alcohol) Death Counts Region 3
+Named Drugs (Illicit, Opiods, Alcohol) Death Counts Region 4
+
 >>>>>>> 445d8f8d1e08c4ef43d9ff14f5bad349e43bf1b9
