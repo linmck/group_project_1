@@ -34,13 +34,13 @@ Compare Drug Related Mortality to Household Income
 Compare Drug Related Mortality to Homelessnes
 Compare Drug Related Mortality to Drug Arrests
 
-Bar Chart
+Bar Chart (Paula):
 Household Income per Region
 Drug Related Deaths per Region
 Homelessness per Region
 Drug Arrests per Region
 
-Pie Chart
+Pie Chart (Lindsey):
 Named Drugs (Illicit, Opiods, Alcohol) Death Counts Region 1
 Named Drugs (Illicit, Opiods, Alcohol) Death Counts Region 2
 Named Drugs (Illicit, Opiods, Alcohol) Death Counts Region 3
