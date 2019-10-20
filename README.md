@@ -17,7 +17,11 @@ Research Questions to Answer:
   *What is the correlation between homeless population and drug mortality?
   *Is there a correlation between drug-related convictions and deaths?
 
-Datasets to be used: https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm
+Datasets to be used:
+Census Population - https://www2.census.gov/programs-surveys/popest/datasets/2010-2016/state/asrh/
+Drug Overdose Data - https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm
+Point in Time Estimates of Homelessness - https://www.hudexchange.info/resource/5783/2018-ahar-part-1-pit-estimates-of-homelessness-in-the-us/
+Total Annual Drug Arrests - https://www.drugwarfacts.org/node/234#
 
 Rough Breakdown of Tasks: 
   *Define states by Region to bin later
