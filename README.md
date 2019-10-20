@@ -1,6 +1,4 @@
 # group_project_1
-<<<<<<< HEAD
-A branch for working seperately from the Master without fucking anything up
 =======
 A repo for group work
 
