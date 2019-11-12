@@ -4,7 +4,7 @@ A repo for group work
 
 Project Title: Investigating Drug Abuse Relationships
 
-Team Members: Lindsey McKenna, James Brunhs, Paula Caudilla, Charles Glassford
+Team Members: Lindsey McKenna, James Brunhs, Paula Caudilla
 
 Project Description/Outline: Investigate relationships between drug use and other trends over the same period of time.
 
@@ -31,7 +31,6 @@ Rough Breakdown of Tasks:
 Hypothesis: Higher rates of homelessness and lower average household incomes have a direct impact on substance use
 
 Charts:
-Scatter Plots (Charles):
 Compare Drug Related Mortality to Household Income
 Compare Drug Related Mortality to Homelessnes
 Compare Drug Related Mortality to Drug Arrests
