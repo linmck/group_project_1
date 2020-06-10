@@ -1,10 +1,12 @@
 # group_project_1
 =======
 # Investigating Drug Abuse Relationships
+## Investigate relationships between drug use and other trends over the same period of time.
 
-### Team Members: Lindsey McKenna, James Brunhs, Paula Caudilla
-
-Project Description/Outline: Investigate relationships between drug use and other trends over the same period of time.
+### Team Members: 
+* Lindsey McKenna
+* James Brunhs
+*Paula Caudilla
 
 ### Research Questions to Answer: 
   * What percentage of deaths by region are drug/alcohol related?
