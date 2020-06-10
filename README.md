@@ -1,5 +1,5 @@
 # Investigating Drug Abuse Relationships
-## Investigate relationships between drug use and other trends over the same period of time.
+### Investigate relationships between drug use and other trends over the same period of time.
 
 ### Team Members: 
 * Lindsey McKenna
