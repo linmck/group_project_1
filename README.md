@@ -1,5 +1,3 @@
-# group_project_1
-=======
 # Investigating Drug Abuse Relationships
 ## Investigate relationships between drug use and other trends over the same period of time.
 
@@ -43,5 +41,3 @@ Higher rates of homelessness and lower average household incomes have a direct i
 * Named Drugs (Illicit, Opiods, Alcohol) Death Counts Region 2
 * Named Drugs (Illicit, Opiods, Alcohol) Death Counts Region 3
 * Named Drugs (Illicit, Opiods, Alcohol) Death Counts Region 4
-
->>>>>>> 445d8f8d1e08c4ef43d9ff14f5bad349e43bf1b9
